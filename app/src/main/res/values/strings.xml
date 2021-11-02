@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifestyleStateChallenge</string>
+    <string name="add_button">Add Item</string>
+    <string name="add_rice">Rice</string>
+    <string name="add_apples">Apples</string>
+    <string name="add_eggs">Eggs</string>
+    <string name="add_milk">Milk</string>
+    <string name="add_cheese">Cheese</string>
+    <string name="add_chips">Chips</string>
+    <string name="add_bread">Bread</string>
+    <string name="add_water">Water</string>
+    <string name="add_chicken">Chicken</string>
+    <string name="add_soda">Soda</string>
+</resources>
